@@ -21,4 +21,4 @@ The PDF report specifies my modifications in extensive detail.
    g++ *.cpp -o <exe-name>
   
 ## How the final product looks like: 
-<!--   ![Alt text](url "Title") -->
+![Main menu screen shot](/repository/Screen shots/MainMenu.png" "Main menu")
