@@ -19,6 +19,3 @@ The PDF report specifies my modifications in extensive detail.
 2. open all code files in your text editor or IDE
 3. in the terminal type: 
    g++ *.cpp -o <exe-name>
-  
-## How the final product looks like: 
-![Main menu screen shot](/repository/Screen shots/MainMenu.png" "Main menu")
