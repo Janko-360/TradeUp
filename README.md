@@ -18,4 +18,4 @@ The PDF report specifies my modifications in extensive detail.
 1. Simply download all the code files
 2. open all code files in your text editor or IDE
 3. in the terminal type: 
-   g++ *.cpp -o <exe-name>
+   g++ *.cpp -o your_exe_name
