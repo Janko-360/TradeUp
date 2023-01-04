@@ -8,7 +8,7 @@ To distinguish: Dr. King M. provided the main menu with the bulk of its function
 The PDF report specifies my modifications in extensive detail.
 
 **Main Menu**  
-![Screenshots](/Screenshots/MainMenu.png){ width=50% }   
+![Screenshots](/Screenshots/MainMenu.png)  
   
 **My advisor Bot Menu**  
 ![Screenshots](/Screenshots/AdvisorBot.png)  
