@@ -8,14 +8,21 @@ To distinguish: The Professor, Dr. Matthew Yee King, provided the main menu with
 The PDF report specifies my modifications in extensive detail.
 
 
-### Project aims were to: 
+![Screenshots](/Screen shots/AdvisorBot.png)  
+![Screenshots](/Screen shots/MainMenu.png)  
+![Screenshots](/Screen shots/MarketStats.png)  
+
+## Project aims were to: 
 - get to know C++
 - handle bigger project infrastructure with multiple organized header and cpp files.
 - practice good coding techniques.
 
 
-### How to use: 
+## How to use: 
 1. Simply download all the code files
 2. open all code files in your text editor or IDE
 3. in the terminal type: 
    g++ *.cpp -o your_exe_name
+
+## License: 
+GLP-3.0
